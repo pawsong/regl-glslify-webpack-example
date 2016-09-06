@@ -1,6 +1,8 @@
 # regl-glslify-webpack-example
 
-A simple regl example using webpack and glslify
+A simple [regl](https://github.com/regl-project/regl) example using webpack and glslify
+
+[Demo](https://pawsong.github.io/regl-glslify-webpack-example/)
 
 ## Install
 
